@@ -1,0 +1,1 @@
+ <p class="text-center">Copyright Tejas Rupade-Shahanpana kela tar phatke bastil</p>
